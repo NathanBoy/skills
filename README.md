@@ -11,15 +11,15 @@
 
 ## Skill 总览
 
-| # | Skill | 分类 | 一句话简介 | 版本 | 下载 |
-|---|-------|------|-----------|------|------|
-| 1 | [cross-env-migrator](skills/cross-env-migrator.md) | 开发编程 | 跨端迁移提效（RN → 类小程序/跨端框架），输出等价实现 + 中文注释 + 风险清单 | v1.0.0 | 7 |
-| 2 | [news-credibility-checker](skills/news-credibility-checker.md) | 行业专业 | 新闻/消息可信度判别器，多维置信度评分 + 可解释论证 | v1.0.0 | 8 |
-| 3 | [interview-griller](skills/interview-griller.md) | 开发编程 | 前端高压模拟面试考官，强制"先出题、后判分" | v1.0.1 | 9 |
-| 4 | [agent-arch-deconstructor](skills/agent-arch-deconstructor.md) | 开发编程 | Agent 架构拆解器，识别 ReAct/CoT/Plan-Execute 等范式 + 架构图 + token 成本 | v1.0.0 | 8 |
-| 5 | [token-cost-auditor](skills/token-cost-auditor.md) | 开发编程 | AI 调用成本审计师，token 估算 + 成本分析 + 省钱方案 | v1.0.1 | 9 |
-| 6 | [qin-history-scholar](skills/qin-history-scholar.md) | 行业专业 | 先秦史考据家，正史/演义严格分栏 + 史源核验 | v1.0.0 | 8 |
-| 7 | [frontend-perf-optimizer](skills/frontend-perf-optimizer.md) | 开发编程 | 前端性能"分层治理 + ROI 决策 + AI 提效"诊断器 | v1.0.0 | — |
+| # | Skill | 分类 | 一句话简介 | 版本 |
+|---|-------|------|-----------|------|
+| 1 | [cross-env-migrator](skills/cross-env-migrator.md) | 开发编程 | 跨端迁移提效（RN → 类小程序/跨端框架），输出等价实现 + 中文注释 + 风险清单 | v1.0.0 |
+| 2 | [news-credibility-checker](skills/news-credibility-checker.md) | 行业专业 | 新闻/消息可信度判别器，多维置信度评分 + 可解释论证 | v1.0.0 |
+| 3 | [interview-griller](skills/interview-griller.md) | 开发编程 | 前端高压模拟面试考官，强制"先出题、后判分" | v1.0.1 |
+| 4 | [agent-arch-deconstructor](skills/agent-arch-deconstructor.md) | 开发编程 | Agent 架构拆解器，识别 ReAct/CoT/Plan-Execute 等范式 + 架构图 + token 成本 | v1.0.0 |
+| 5 | [token-cost-auditor](skills/token-cost-auditor.md) | 开发编程 | AI 调用成本审计师，token 估算 + 成本分析 + 省钱方案 | v1.0.1 |
+| 6 | [qin-history-scholar](skills/qin-history-scholar.md) | 行业专业 | 先秦史考据家，正史/演义严格分栏 + 史源核验 | v1.0.0 |
+| 7 | [frontend-perf-optimizer](skills/frontend-perf-optimizer.md) | 开发编程 | 前端性能"分层治理 + ROI 决策 + AI 提效"诊断器 | v1.0.0 |
 
 ## SkillHub 详情链接
 

@@ -1,6 +1,6 @@
 # AI 成本审计师 · Token Cost Auditor
 
-> 分类：开发编程 ｜ 版本：v1.0.1 ｜ 下载：9 次 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/token-cost-auditor
+> 分类：开发编程 ｜ 版本：v1.0.1 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/token-cost-auditor
 
 ## 一句话简介
 AI 调用成本审计师。当用户要求"算一下成本 / 这个任务花了多少 token / 审计 token 用量 / 报一下上下文开销 / 帮我评估这次对话的成本 / 怎么省 token"，或要求对一段对话日志、任务日志、代码上下文做 token 估算与成本分析、给出省钱优化建议时使用。基于文本长度做启发式估算，按模型价目表计算 input/output 成本，并输出可执行的优化方案。

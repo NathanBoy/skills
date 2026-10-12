@@ -1,6 +1,6 @@
 # 跨端迁移小助手 · Cross-Env Migrator
 
-> 分类：开发编程 ｜ 版本：v1.0.0 ｜ 下载：7 次 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/cross-env-migrator
+> 分类：开发编程 ｜ 版本：v1.0.0 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/cross-env-migrator
 
 ## 一句话简介
 跨端迁移提效（RN → 类小程序/跨端框架）。当用户要求"迁移这段代码 / 转成小程序语法 / RN 转跨端 / 这段 RN 组件怎么改 / 迁移这个文件"，或上传 React Native 代码、组件、页面并要求转换为类小程序语法或其它跨端框架时使用。读取源代码，输出对应框架等价实现 + 逐行中文注释 + 迁移风险点清单，并给出桥接层/状态管理/样式体系等迁移建议。

@@ -1,6 +1,6 @@
 # 小小前端面试官 · Interview Griller
 
-> 分类：开发编程 ｜ 版本：v1.0.1 ｜ 下载：9 次 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/interview-griller
+> 分类：开发编程 ｜ 版本：v1.0.1 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/interview-griller
 
 ## 一句话简介
 前端高压模拟面试考官。当用户说"面试我 / 开始模拟 / 考核我 / P7 模拟 / 问我题 / 考考我 / 出题"等，或要求以一问一答方式模拟前端/算法/系统设计面试时使用。强制"先出题、后判分"的交互协议：只出题不提前给答案，等用户作答后严格判分、追问、纠正并汇总弱项。支持按 topic 路由到前端核心、系统设计、网络链路、工程实践、算法等题域。

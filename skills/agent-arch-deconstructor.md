@@ -1,6 +1,6 @@
 # Agent 架构拆解器 · Agent Arch Deconstructor
 
-> 分类：开发编程 ｜ 版本：v1.0.0 ｜ 下载：8 次 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/agent-arch-deconstructor
+> 分类：开发编程 ｜ 版本：v1.0.0 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/agent-arch-deconstructor
 
 ## 一句话简介
 Agent 架构拆解器。当用户要求"拆解这个 agent / 这个工作流怎么运作 / 这是什么架构 / 是 ReAct 还是 CoT / 帮我分析这段 agent 代码或配置 / Loop 和 Harness 工程是什么"，或上传 agent 工作流、编排代码、prompt 模板、多轮日志并要求理解其推理范式与执行机制时使用。把任意 Agent 实现拆解成 ReAct/CoT/Plan-Execute/Loop/Harness/RAG 等范式，用架构图呈现执行链路，并标注每个环节的输入输出与大致 token 成本。

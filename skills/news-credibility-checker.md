@@ -1,6 +1,6 @@
 # 谣了个谣 · News Credibility Checker
 
-> 分类：行业专业 ｜ 版本：v1.0.0 ｜ 下载：8 次 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/news-credibility-checker
+> 分类：行业专业 ｜ 版本：v1.0.0 ｜ 链接：https://skillhub.cn/skills/user_ac54d1c1/news-credibility-checker
 
 ## 一句话简介
 新闻/消息可信度判别器。当用户要求"这条新闻是真的吗 / 帮我辨别真假 / 这个说法可信吗 / 帮我评估下这条消息 / 这消息是不是谣言"等，或提供一条新闻、短视频内容、网络传言、营销号说法并要求判别其可信度时使用。从新闻传播学视角，通过信源评估、多方交叉验证、内容特征分析、证据链核查、传播学信号识别等方法论，输出多维置信度评分 + 论证过程，帮用户快速判断消息可信度。
